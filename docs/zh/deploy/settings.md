@@ -63,7 +63,7 @@ mcp:
     # servers:
     #   - name: 'SSE Server'
     #     enable: true
-    #     mode: SSE
+    #     mode: sse
     #     url: 'http://127.0.0.1:8000/sse'
     #     headers: {}
     #     timeout: 10
